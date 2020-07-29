@@ -13,7 +13,7 @@ function App() {
       <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"Olivia Pope (Kerry Washington) passa seu tempo protegendo a reputação das personalidades estadunidenses da elite, evitando que nasçam grandes escândalos. A moça decide abrir uma empresa após deixar seu trabalho na Casa Branca, mas não consegue se desvencilhar totalmente de seu passado profissional. Sua equipe é formada por Harrison Wright (Columbus Short), Quinn Perkins (Katie Lowes), Stephen Finch (Henry Ian Cusick), Abby Whelan (Darby Stanchfield) e o hacker Huck Finn (Guillermo Diaz)."}
+        videoDescription={"Liga da Justiça Sem Limites Episódio: Esta Porquinha Nesse episódio, Batman canta para que a feiticeira Circe desfizesse o feitiço em Diana a Mulher Maravilha."}
       />
 
       <Carousel
