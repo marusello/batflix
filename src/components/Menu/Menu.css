@@ -1,8 +1,17 @@
-.Logo {
+.LogoNome {
+  max-width: 208px;
+}
+@media (max-width: 800px) {
+  .LogoNome {
+    max-width: 105px;
+  }
+}
+
+.LogoBatman {
   max-width: 168px;
 }
 @media (max-width: 800px) {
-  .Logo {
+  .LogoBatman {
     max-width: 105px;
   }
 }
@@ -24,7 +33,7 @@
   padding-right: 5%;
 
   background: var(--black);
-  border-bottom: 2px solid var(--primary);
+  border-bottom: 2px solid yellow;
 }
 body {
   --bodyPaddingTop: 94px;
